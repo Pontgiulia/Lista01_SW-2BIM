@@ -1,0 +1,14 @@
+C:\Users\Giulia\Downloads\Exercicio_04\Exercicio_04\bin\Debug\net8.0\Exercicio_04.exe
+C:\Users\Giulia\Downloads\Exercicio_04\Exercicio_04\bin\Debug\net8.0\Exercicio_04.deps.json
+C:\Users\Giulia\Downloads\Exercicio_04\Exercicio_04\bin\Debug\net8.0\Exercicio_04.runtimeconfig.json
+C:\Users\Giulia\Downloads\Exercicio_04\Exercicio_04\bin\Debug\net8.0\Exercicio_04.dll
+C:\Users\Giulia\Downloads\Exercicio_04\Exercicio_04\bin\Debug\net8.0\Exercicio_04.pdb
+C:\Users\Giulia\Downloads\Exercicio_04\Exercicio_04\obj\Debug\net8.0\Exercicio_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giulia\Downloads\Exercicio_04\Exercicio_04\obj\Debug\net8.0\Exercicio_04.AssemblyInfoInputs.cache
+C:\Users\Giulia\Downloads\Exercicio_04\Exercicio_04\obj\Debug\net8.0\Exercicio_04.AssemblyInfo.cs
+C:\Users\Giulia\Downloads\Exercicio_04\Exercicio_04\obj\Debug\net8.0\Exercicio_04.csproj.CoreCompileInputs.cache
+C:\Users\Giulia\Downloads\Exercicio_04\Exercicio_04\obj\Debug\net8.0\Exercicio_04.dll
+C:\Users\Giulia\Downloads\Exercicio_04\Exercicio_04\obj\Debug\net8.0\refint\Exercicio_04.dll
+C:\Users\Giulia\Downloads\Exercicio_04\Exercicio_04\obj\Debug\net8.0\Exercicio_04.pdb
+C:\Users\Giulia\Downloads\Exercicio_04\Exercicio_04\obj\Debug\net8.0\Exercicio_04.genruntimeconfig.cache
+C:\Users\Giulia\Downloads\Exercicio_04\Exercicio_04\obj\Debug\net8.0\ref\Exercicio_04.dll
