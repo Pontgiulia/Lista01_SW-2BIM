@@ -1,0 +1,14 @@
+C:\Users\Giulia\Downloads\exC#\Exercicio_11\Exercicio_11\bin\Debug\net8.0\Exercicio_11.exe
+C:\Users\Giulia\Downloads\exC#\Exercicio_11\Exercicio_11\bin\Debug\net8.0\Exercicio_11.deps.json
+C:\Users\Giulia\Downloads\exC#\Exercicio_11\Exercicio_11\bin\Debug\net8.0\Exercicio_11.runtimeconfig.json
+C:\Users\Giulia\Downloads\exC#\Exercicio_11\Exercicio_11\bin\Debug\net8.0\Exercicio_11.dll
+C:\Users\Giulia\Downloads\exC#\Exercicio_11\Exercicio_11\bin\Debug\net8.0\Exercicio_11.pdb
+C:\Users\Giulia\Downloads\exC#\Exercicio_11\Exercicio_11\obj\Debug\net8.0\Exercicio_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giulia\Downloads\exC#\Exercicio_11\Exercicio_11\obj\Debug\net8.0\Exercicio_11.AssemblyInfoInputs.cache
+C:\Users\Giulia\Downloads\exC#\Exercicio_11\Exercicio_11\obj\Debug\net8.0\Exercicio_11.AssemblyInfo.cs
+C:\Users\Giulia\Downloads\exC#\Exercicio_11\Exercicio_11\obj\Debug\net8.0\Exercicio_11.csproj.CoreCompileInputs.cache
+C:\Users\Giulia\Downloads\exC#\Exercicio_11\Exercicio_11\obj\Debug\net8.0\Exercicio_11.dll
+C:\Users\Giulia\Downloads\exC#\Exercicio_11\Exercicio_11\obj\Debug\net8.0\refint\Exercicio_11.dll
+C:\Users\Giulia\Downloads\exC#\Exercicio_11\Exercicio_11\obj\Debug\net8.0\Exercicio_11.pdb
+C:\Users\Giulia\Downloads\exC#\Exercicio_11\Exercicio_11\obj\Debug\net8.0\Exercicio_11.genruntimeconfig.cache
+C:\Users\Giulia\Downloads\exC#\Exercicio_11\Exercicio_11\obj\Debug\net8.0\ref\Exercicio_11.dll
